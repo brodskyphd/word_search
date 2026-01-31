@@ -28,21 +28,12 @@
       'directions': ['W', 'N', 'WN', 'EN'],
       'gridSize': 18,
       'words': [
-	     'throne',
-		'palace',
-		'tradition',
-		'family',
-		'descent',
-		'royal',
-		'kingdom',
-		'prince',
-		'law',
-		'earl',
-		'government',
-		'charter',
-		'sovereign',
-		'orb',
-		'commons'
+	     'Veil',
+		'Flower',
+		'Quran',
+		'Rice',
+		'Mosque',
+		'Train',
 	  ],
       'debug': false,
 	  'condition' : 0,
@@ -354,20 +345,20 @@
 ];
 
 	var power_matrix = [
-[	'K',	'X',	'N',	'A',	'V',	'K',	'W',	'U',	'D',	'K',	'B'	],
-[	'C',	'O',	'F',	'F',	'E',	'E',	'N',	'O',	'E',	'T',	'S'	],
-[	'E',	'Y',	'I',	'N',	'F',	'L',	'U',	'E',	'N',	'C',	'E'	],
-[	'T',	'X',	'F',	'L',	'J',	'C',	'F',	'N',	'E',	'M',	'X'	],
-[	'D',	'X',	'E',	'H',	'O',	'U',	'S',	'E',	'Y',	'W',	'D'	],
-[	'A',	'A',	'M',	'C',	'A',	'R',	'I',	'S',	'U',	'R',	'R'	],
-[	'O',	'U',	'E',	'M',	'U',	'S',	'T',	'R',	'G',	'L',	'A'	],
-[	'S',	'Y',	'T',	'X',	'O',	'T',	'R',	'N',	'S',	'U',	'O'	],
-[	'J',	'R',	'E',	'H',	'T',	'M',	'I',	'T',	'O',	'E',	'B'	],
-[	'N',	'J',	'E',	'A',	'O',	'D',	'J',	'V',	'G',	'C',	'W'	],
-[	'H',	'C',	'I',	'R',	'N',	'R',	'B',	'E',	'E',	'Q',	'G'	],
-[	'K',	'C',	'O',	'L',	'C',	'L',	'I',	'O',	'J',	'E',	'K'	],
-[	'M',	'U',	'H',	'E',	'C',	'Y',	'O',	'T',	'S',	'W',	'O'	],
-[	'X',	'K',	'J',	'K',	'S',	'X',	'Z',	'O',	'Y',	'S',	'Z'	]
+[	'Z',	'Q',	'Y',	'E',	'Y',	'O',	'D',	'F',	'I',	'H',	'H'	],
+[	'K',	'D',	'C',	'N',	'X',	'K',	'Y',	'P',	'R',	'A',	'S'	],
+[	'I',	'I',	'D',	'T',	'X',	'L',	'X',	'F',	'H',	'R',	'C'	],
+[	'R',	'S',	'N',	'M',	'F',	'W',	'R',	'O',	'L',	'U',	'B'	],
+[	'R',	'C',	'K',	'E',	'F',	'L',	'I',	'E',	'V',	'Q',	'V'	],
+[	'T',	'E',	'U',	'E',	'Y',	'X',	'N',	'F',	'J',	'U',	'S'	],
+[	'K',	'R',	'W',	'O',	'R',	'X',	'X',	'U',	'V',	'N',	'G'	],
+[	'L',	'D',	'A',	'O',	'C',	'Q',	'P',	'R',	'X',	'Y',	'N'	],
+[	'C',	'C',	'E',	'I',	'L',	'H',	'X',	'X',	'U',	'D',	'X'	],
+[	'F',	'B',	'M',	'E',	'N',	'F',	'Y',	'Q',	'U',	'R',	'S'	],
+[	'X',	'M',	'U',	'R',	'V',	'P',	'V',	'A',	'Z',	'Q',	'P'	],
+[	'V',	'J',	'T',	'L',	'B',	'K',	'X',	'F',	'H',	'C',	'V'	],
+[	'M',	'O',	'S',	'Q',	'U',	'E',	'I',	'C',	'O',	'L',	'P'	],
+[	'L',	'R',	'R',	'I',	'M',	'D',	'A',	'S',	'K',	'Q',	'Y'	]
 ];
 
 	var neutral_matrix = [
